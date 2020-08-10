@@ -29,24 +29,23 @@ Here are the technologies used in this project.
 ## How to use
  
 ### 1 - Choose your option: study or teach
-[!Home Screen](https://github.com/LucasLBB/nlw/blob/master/public/readme_images/principal.PNG)
+![Home Screen](https://github.com/LucasLBB/nlw/blob/master/public/readme_images/principal.PNG)
  
 
 ### 2 - Teacher
-[!Teacher](https://github.com/LucasLBB/nlw/blob/master/public/readme_images/proffys.PNG)
+![Teacher](https://github.com/LucasLBB/nlw/blob/master/public/readme_images/proffys.PNG)
 
 
 ### 3 - Student
-[!Student](https://github.com/LucasLBB/nlw/blob/master/public/readme_images/estudar.PNG) 
+![Student](https://github.com/LucasLBB/nlw/blob/master/public/readme_images/estudar.PNG) 
 
 
 ### 4 - Mobile
+![Mobile Home Screen](https://github.com/LucasLBB/nlw/blob/master/public/readme_images/principalMobile.PNG)
 
-[!Mobile Home Screen](https://github.com/LucasLBB/nlw/blob/master/public/readme_images/principalMobile.PNG)
+![Mobile Teacher](https://github.com/LucasLBB/nlw/blob/master/public/readme_images/proffysMobile.PNG)
 
-[!Mobile Teacher](https://github.com/LucasLBB/nlw/blob/master/public/readme_images/proffysMobile.PNG)
-
-[!Mobile Student](https://github.com/LucasLBB/nlw/blob/master/public/readme_images/estudarMobile.PNG)
+![Mobile Student](https://github.com/LucasLBB/nlw/blob/master/public/readme_images/estudarMobile.PNG)
 
 
 ## Features
