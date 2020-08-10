@@ -46,7 +46,7 @@ Here are the technologies used in this project.
 
 [!Mobile Teacher](https://github.com/LucasLBB/nlw/blob/master/public/readme_images/proffysMobile.PNG)
 
-[!Mobile Student] (https://github.com/LucasLBB/nlw/blob/master/public/readme_images/estudarMobile.PNG)
+[!Mobile Student](https://github.com/LucasLBB/nlw/blob/master/public/readme_images/estudarMobile.PNG)
 
 
 ## Features
