@@ -1,4 +1,4 @@
-![Logo of the project](https://github.com/LucasLBB/nlw/blob/master/public/readme_images/logo.svg)
+![Logo of the project](https://github.com/LucasLBB/nlw/blob/master/public/readme_images/logo.png)
  
 ## Proffy
  
