@@ -40,12 +40,12 @@ Here are the technologies used in this project.
 ![Student](https://github.com/LucasLBB/nlw/blob/master/public/readme_images/estudar.PNG) 
 
 
-### 5 - Sucess
+### 4 - Sucess
 
 ![Sucess](https://github.com/LucasLBB/nlw/blob/master/public/readme_images/sucess.PNG)
 
 
-### 4 - Mobile
+### 5 - Mobile
 ![Mobile Home Screen](https://github.com/LucasLBB/nlw/blob/master/public/readme_images/principalMobile.PNG)
 
 ![Mobile Teacher](https://github.com/LucasLBB/nlw/blob/master/public/readme_images/proffysMobile.PNG)
