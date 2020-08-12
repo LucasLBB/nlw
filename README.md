@@ -23,8 +23,6 @@ Here are the technologies used in this project.
 ## Services Used
  
 * Github
-* VsCode
-
  
 ## How to use
  
