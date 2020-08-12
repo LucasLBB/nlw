@@ -63,7 +63,7 @@ Here are the technologies used in this project.
   - Repository: https://github.com/LucasLBB/nlw
 
  
-## Authors
+## Author
  
 * **Lucas de Lima**: @LucasLBB (https://github.com/LucasLBB)
  
