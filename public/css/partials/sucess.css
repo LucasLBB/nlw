@@ -1,0 +1,56 @@
+body {
+    background-image: url(/images/success-background.svg);
+    background-color: #8257E5;
+    margin: 0;
+}
+
+div img{
+    margin-top: -11rem;
+    margin-left: 16.5rem;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+div h1 {
+    text-align: center;
+    color: #FFFFFF;
+    font: 2.5rem Poppins;
+    font-weight: bold; 
+    margin-top: 1.5rem;
+}
+
+.p-text {
+    text-align: center;
+    color: #E6E6F0;
+    font: 1.5rem Poppins;
+    white-space: pre-line;
+    margin-top: 1.5rem;
+}
+
+div a {
+    width: 60%;
+    height: 4rem;
+    background: #04D361;
+    color: #FFFFFF;
+    border: 0em;
+    border-radius: 0.8rem;
+    cursor: pointer;
+    font: 100 1.5rem Archivo;
+
+    text-align: center;
+    display: flex; /*Ajuda a alinhar ao centro da página*/
+    align-items: center; /*Ajuda a alinhar ao centro da página*/
+    justify-content: center; /*Ajuda a alinhar ao centro da página*/
+    text-decoration: none;
+
+    transition: 0.2s;
+    margin-top: 5.5rem;
+    margin-left: 9rem;
+ 
+}
+
+div a:hover {
+    background: #04BF58;
+}
+
