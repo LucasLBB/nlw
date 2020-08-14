@@ -17,9 +17,10 @@ Here are the technologies used in this project.
 * Nunjucks 3.2.2
 * Nodemon 2.0.4
 * Sqlite-Async 1.1.0
+* HTML5
+* CSS3
 
- 
- 
+
 ## Services Used
  
 * GitHub
